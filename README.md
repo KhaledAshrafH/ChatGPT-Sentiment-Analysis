@@ -160,7 +160,7 @@ The report includes detailed comparisons of the training trials for both CNN and
 
 ## Dependencies
 
-To run the code in the `main.ipynb` notebook, the following dependencies are required:
+To run the code in the `FinalChatGPT_SentimentAnalysis.ipynb` notebook, the following dependencies are required:
 
 - pandas
 - numpy
@@ -183,7 +183,7 @@ Make sure to install these dependencies before running the code. You can use the
 
 1. Clone the project repository to your local machine.
 2. Make sure you have the required dependencies installed.
-3. Open the `main.ipynb` notebook using Jupyter Notebook or any compatible environment.
+3. Open the `FinalChatGPT_SentimentAnalysis.ipynb` notebook using Jupyter Notebook or any compatible environment.
 4. Run the code cells in the notebook sequentially to preprocess the data, train the models, and evaluate their performance.
 5. Refer to the report for a detailed analysis of the project, including model comparisons, hyperparameters, and accuracy results.
 6. Use the trained models to predict the sentiment of new tweets by providing them as input to the models.
