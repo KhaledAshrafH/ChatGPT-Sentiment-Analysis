@@ -144,6 +144,11 @@ To run the code in the `main.ipynb` notebook, the following dependencies are req
 
 Make sure to install these dependencies before running the code. You can use the `pip install` command followed by the package name to install them.
 
+## Additional Information
+
+- The word embedding used in this project is "glove.6B.300d.txt," which showed the best accuracy compared to other embedding files.
+- The dictionary used in the models contains 32,000 words. An experiment with 15,000 words was also conducted, resulting in similar accuracy.
+
 ## How to Use
 
 1. Clone the project repository to your local machine.
