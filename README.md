@@ -90,7 +90,7 @@ To provide a visual representation of the accuracy achieved in each trial of the
 
 The plot shows the accuracy achieved in each trial of the CNN model. The x-axis represents the trial number, while the y-axis represents the accuracy percentage. Each bar represents the accuracy achieved in a specific trial.
 
-### Photos for Accuracy of LSTM Trials
+### Photo for Accuracy of LSTM Trials
 
 To visualize the accuracy achieved in each trial of the LSTM model, we created a bar plot. The plot allows for easy comparison of the performance of different trials. Here is the plot:
 
