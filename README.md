@@ -197,3 +197,17 @@ The results of this project will provide valuable insights into the sentiment di
 
 For a more detailed report with all the trials and results, please refer to the full project report, which includes comprehensive information on each phase, model performance, hyperparameter optimization, and evaluation metrics.
 
+
+## Contributing
+
+Contributions to this project are welcome. If you find any issues or have suggestions for improvement, please open an issue or submit a pull request. Your contributions can help enhance the Accuracies of models.
+
+## Team
+
+- [Khaled Ashraf Hanafy Mahmoud - 20190186](https://github.com/KhaledAshrafH).
+- [Samah Moustafa Hussien Mahmoud - 20190248](https://github.com/Samah-20190248).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE.md).
+
