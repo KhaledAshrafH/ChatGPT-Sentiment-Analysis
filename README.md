@@ -24,9 +24,9 @@ The dataset is provided in a CSV file format, with each entry containing the twe
 
 Here are some examples of the dataset:
 
-1. ChatGPT about @kunalb11 - English essay writing is going to go for a toss! https://t.co/8t2GKX3Lcl => bad
-2. Me: How are you doing?\n\nChatGPT: As a language model trained by OpenAI, I don't have the ability to feel emotions or have experiences. I'm a computer program designed to provide information and answer questions to the best of my ability. Is there something else you'd like to ask? https://t.co/R28Hk0WgAY => good
-3. OpenAI ChatGPT: Optimizing Language Models for Dialogue https://t.co/KrH1kX3sZ6 (https://t.co/TbeOPjiX9v) => neutral
+1. " ChatGPT about @kunalb11 - English essay writing is going to go for a toss! https:// t.co/8t2GKX3Lcl " ****=>**** ****Bad****
+2. " Me: How are you doing?\n\nChatGPT: As a language model trained by OpenAI, I don't have the ability to feel emotions or have experiences. I'm a computer program designed to provide information and answer questions to the best of my ability. Is there something else you'd like to ask? https:// t.co/R28Hk0WgAY " ****=>**** ****Good****
+3. " OpenAI ChatGPT: Optimizing Language Models for Dialogue https:// t.co/KrH1kX3sZ6 (https:// t.co/TbeOPjiX9v) " ****=>**** ****Neutral****
 
 ## Project Phases
 
