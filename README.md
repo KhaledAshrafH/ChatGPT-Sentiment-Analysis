@@ -62,9 +62,15 @@ To gain insights into the sentiment distribution in the dataset, we analyzed the
 
 To visualize the sentiment distribution, we created a bar plot showing the number of tweets in each sentiment category. Here is the sentiment distribution based on the majority sentiment:
 
-![CNN Model Accuracy](images/majority-data.png)
+<p align="center" margin="auto">
+    <kbd>
+<img align="center" 
+            src="./Images/MajorityOfTweets.png?raw=true"
+            alt="KhaledAshrafH" width=450px  style="border-radius: 20px;"/>
+    </kbd>
+</p>
 
-As seen in the plot, the majority sentiment in the dataset is neutral, followed by positive and negative sentiments.
+As seen in the plot, the majority sentiment in the dataset is negative, followed by positive and neutral sentiments.
 
 ## Model Performance
 
@@ -74,7 +80,13 @@ The project utilizes two models: CNN and LSTM, with each model trained multiple 
 
 To provide a visual representation of the accuracy achieved in each trial of the CNN model, we created a bar plot. The plot displays the accuracy of each trial, making it easier to compare the performance of different trials. Here is the plot:
 
-![CNN Model Accuracy](images/cnn_accuracies.png)
+<p align="center" margin="auto">
+    <kbd>
+<img align="center" 
+            src="./Images/CNN-Model(All-Trials-Accuracies).png?raw=true"
+            alt="KhaledAshrafH" width=450px  style="border-radius: 20px;"/>
+    </kbd>
+</p>
 
 The plot shows the accuracy achieved in each trial of the CNN model. The x-axis represents the trial number, while the y-axis represents the accuracy percentage. Each bar represents the accuracy achieved in a specific trial.
 
@@ -82,7 +94,13 @@ The plot shows the accuracy achieved in each trial of the CNN model. The x-axis 
 
 To visualize the accuracy achieved in each trial of the LSTM model, we created a bar plot. The plot allows for easy comparison of the performance of different trials. Here is the plot:
 
-![LSTM Model Accuracy](images/lstm_accuracies.png)
+<p align="center" margin="auto">
+    <kbd>
+<img align="center" 
+            src="./Images/LSTM-Model(All-Trials-Accuracies).png?raw=true"
+            alt="KhaledAshrafH" width=450px  style="border-radius: 20px;"/>
+    </kbd>
+</p>
 
 The plot displays the accuracy achieved in each trial of the LSTM model. The x-axis represents the trial number, and the y-axis represents the accuracy percentage. Each bar corresponds to the accuracy achieved in a specific trial.
 
@@ -94,7 +112,13 @@ The best accuracy is achieved in Trial-4:
 - Training Accuracy: 97.7%
 - Testing Accuracy: 90.5%
 
-![CNN Model Accuracy](images/cnn_accuracy.png)
+<p align="center" margin="auto">
+    <kbd>
+<img align="center" 
+            src="./Images/CNN Model Accuracy and Loss (Trial No._4).png?raw=true"
+            alt="KhaledAshrafH" width=650  style="border-radius: 20px;"/>
+    </kbd>
+</p>
 
 ### Best LSTM Model
 
@@ -102,7 +126,13 @@ The best accuracy is achieved in Trial-5:
 - Training Accuracy: 96.8%
 - Testing Accuracy: 91.1%
 
-![LSTM Model Accuracy](images/lstm_accuracy.png)
+<p align="center" margin="auto">
+    <kbd>
+<img align="center" 
+            src="./Images/LSTM Model Accuracy and Loss (Trial No._5).png?raw=true"
+            alt="KhaledAshrafH" width=650  style="border-radius: 20px;"/>
+    </kbd>
+</p>
 
 ## Comparison of Trial Accuracies
 
