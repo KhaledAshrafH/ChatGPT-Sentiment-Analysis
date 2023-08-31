@@ -117,6 +117,7 @@ The best accuracy is achieved in Trial-4:
             alt="KhaledAshrafH" width=650  style="border-radius: 20px;"/>
     </kbd>
 </p>
+<h1 align="center"></h1>
 
 ### Best LSTM Model
 
@@ -145,6 +146,7 @@ The report includes detailed comparisons of the training trials for both CNN and
             alt="KhaledAshrafH" width=650  style="border-radius: 20px;"/>
     </kbd>
 </p>
+<h1 align="center"></h1>
 
 ### LSTM Model Trials Comparison Table
 
