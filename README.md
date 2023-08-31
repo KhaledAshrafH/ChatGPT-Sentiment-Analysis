@@ -204,8 +204,14 @@ Contributions to this project are welcome. If you find any issues or have sugges
 
 ## Team
 
+This Project was created by a team of two computer science students at Faculty of Computers and Artificial Intelligence Cairo University. The team members are:
+
 - [Khaled Ashraf Hanafy Mahmoud - 20190186](https://github.com/KhaledAshrafH).
 - [Samah Moustafa Hussien Mahmoud - 20190248](https://github.com/Samah-20190248).
+
+## Acknowledgment
+
+This Project is based on Natural Language Processing (NLP) Course at Faculty of Computers and Artificial Intelligence Cairo University. We would like to thank Dr. Hanaa Bayomi Ali for his guidance and support throughout this course.
 
 ## License
 
