@@ -138,25 +138,25 @@ The best accuracy is achieved in Trial-5:
 
 The report includes detailed comparisons of the training trials for both CNN and LSTM models. Here are some measurements for each trial:
 
-### CNN Model Trials Comparison
+### CNN Model Trials Comparison Table
 
-| Trial | Training Accuracy | Testing Accuracy |
-|-------|------------------|------------------|
-| 1     | 96.3%            | 89.2%            |
-| 2     | 97.1%            | 90.0%            |
-| 3     | 96.6%            | 89.8%            |
-| 4     | 97.7%            | 90.5%            |
-| 5     | 96.9%            | 90.1%            |
+<p align="center" margin="auto">
+    <kbd>
+<img align="center" 
+            src="./Images/CNN Table.png?raw=true"
+            alt="KhaledAshrafH" width=650  style="border-radius: 20px;"/>
+    </kbd>
+</p>
 
-### LSTM Model Trials Comparison
+### LSTM Model Trials Comparison Table
 
-| Trial | Training Accuracy | Testing Accuracy |
-|-------|------------------|------------------|
-| 1     | 95.8%            | 90.3%            |
-| 2     | 96.3%            | 90.8%            |
-| 3     | 96.4%            | 90.7%            |
-| 4     | 96.6%            | 90.9%            |
-| 5     | 96.8%            | 91.1%            |
+<p align="center" margin="auto">
+    <kbd>
+<img align="center" 
+            src="./Images/LSTM Table.png?raw=true"
+            alt="KhaledAshrafH" width=650  style="border-radius: 20px;"/>
+    </kbd>
+</p>
 
 ## Dependencies
 
