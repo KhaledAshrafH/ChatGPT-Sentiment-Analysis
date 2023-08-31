@@ -1,0 +1,13 @@
+Notes:-
+-We Used glove.6B.300d.txt as Word Embedding  After trying several files such as glove.twitter.6B.200d.txt and glove.6B.100d.txt
+This produced the best accuracy.
+
+-We also use 32,000 words in the dictionary, and we did an experiment with 15,000 as well, and the result was almost equal or a small difference.
+
+-During the training experiments, we noticed that some models were fixed at a certain accuracy percentage, so we determined for that a number of epochs that are low in some percentage, but some of them may need a larger number to produce a higher accuracy, and this will take a very long time.
+
+
+Names:-
+(S5) Khaled Ashraf Hanafy Mahmoud     => 20190186
+(S3) Samah Moustafa Hussein Mahmoud   => 20190248
+

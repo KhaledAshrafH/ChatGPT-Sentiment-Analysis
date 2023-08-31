@@ -1,0 +1,6 @@
+Measurement,Training Accuaracy,Testing Accuaracy,Embedding layer Trainable
+Trial-1,94.6,79,Yes
+Trial-2,83.3,77.7,No
+Trial-3,94.4,80.1,No
+Trial-4,97.7,90.5,Yes
+Trial-5,94.6,79.75,No
